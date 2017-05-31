@@ -1,0 +1,22 @@
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  background-color: grey;
+  height: 80%;
+  width: 60%;
+}
+
+.modal_body {
+  display: flex;
+}
+
+.tab-sidebar {
+  flex-grow: 1;
+}
+
+.note-content {
+  flex-grow: 4;
+}

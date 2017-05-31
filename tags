@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e3ea52b3/
+.App	src/App.css	/^.App {$/;"	c
+.App-header	src/App.css	/^.App-header {$/;"	c
+.App-intro	src/App.css	/^.App-intro {$/;"	c
+.App-logo	src/App.css	/^.App-logo {$/;"	c
+.modal	src/Modal.css	/^.modal {$/;"	c
+.modal_body	src/Modal.css	/^.modal_body {$/;"	c
+.note-content	src/Modal.css	/^.note-content {$/;"	c
+.tab-sidebar	src/Modal.css	/^.tab-sidebar {$/;"	c
+0	public/manifest.json	/^    {$/;"	o	array:icons
+App	src/App.js	/^class App extends Component {$/;"	c
+TabItemContent	src/TabItemContent.js	/^class TabItemContent extends Component {$/;"	c
+TabSideBarItem	src/TabSideBarItem.js	/^class TabSideBarItem extends Component {$/;"	c
+TabSidebar	src/TabSidebar.js	/^class TabSidebar extends Component {$/;"	c
+background_color	public/manifest.json	/^  "background_color": "#ffffff"$/;"	s
+body	src/index.css	/^body {$/;"	s
+build	package.json	/^    "build": "react-scripts build",$/;"	s	object:scripts
+constructor	src/App.js	/^  constructor(props) {$/;"	m	class:App
+dependencies	package.json	/^  "dependencies": {$/;"	o
+devDependencies	package.json	/^  "devDependencies": {$/;"	o
+display	public/manifest.json	/^  "display": "standalone",$/;"	s
+eject	package.json	/^    "eject": "react-scripts eject"$/;"	s	object:scripts
+icons	public/manifest.json	/^  "icons": [$/;"	a
+isModalShowing	src/App.js	/^      isModalShowing: false,$/;"	p	class:constructor.state
+name	package.json	/^  "name": "discord",$/;"	s
+name	public/manifest.json	/^  "name": "Create React App Sample",$/;"	s
+private	package.json	/^  "private": true,$/;"	b
+react	package.json	/^    "react": "^15.5.4",$/;"	s	object:dependencies
+react-dom	package.json	/^    "react-dom": "^15.5.4"$/;"	s	object:dependencies
+react-scripts	package.json	/^    "react-scripts": "1.0.7"$/;"	s	object:devDependencies
+render	src/App.js	/^  render() {$/;"	m	class:App
+render	src/TabItemContent.js	/^  render() {$/;"	m	class:TabItemContent
+render	src/TabSideBarItem.js	/^  render() {$/;"	m	class:TabSideBarItem
+render	src/TabSidebar.js	/^  render() {$/;"	m	class:TabSidebar
+scripts	package.json	/^  "scripts": {$/;"	o
+short_name	public/manifest.json	/^  "short_name": "React App",$/;"	s
+sizes	public/manifest.json	/^      "sizes": "192x192",$/;"	s	object:icons.0
+src	public/manifest.json	/^      "src": "favicon.ico",$/;"	s	object:icons.0
+start	package.json	/^    "start": "react-scripts start",$/;"	s	object:scripts
+start_url	public/manifest.json	/^  "start_url": ".\/index.html",$/;"	s
+state	src/App.js	/^    this.state = {$/;"	c	class:constructor
+test	package.json	/^    "test": "react-scripts test --env=jsdom",$/;"	s	object:scripts
+theme_color	public/manifest.json	/^  "theme_color": "#000000",$/;"	s
+type	public/manifest.json	/^      "type": "image\/png"$/;"	s	object:icons.0
+version	package.json	/^  "version": "0.1.0",$/;"	s
